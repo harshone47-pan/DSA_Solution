@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/harshone47-pan/DSA_Solution/tree/master/0217-contains-duplicate) |
+| [0867-transpose-matrix](https://github.com/harshone47-pan/DSA_Solution/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/harshone47-pan/DSA_Solution/tree/master/1480-running-sum-of-1d-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/harshone47-pan/DSA_Solution/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Hash Table
@@ -27,9 +28,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/harshone47-pan/DSA_Solution/tree/master/0867-transpose-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/harshone47-pan/DSA_Solution/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/harshone47-pan/DSA_Solution/tree/master/0867-transpose-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/harshone47-pan/DSA_Solution/tree/master/2022-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
