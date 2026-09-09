@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/harshone47-pan/DSA_Solution/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshone47-pan/DSA_Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3870-count-commas-in-range](https://github.com/harshone47-pan/DSA_Solution/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/harshone47-pan/DSA_Solution/tree/master/3871-count-commas-in-range-ii) |
 ## Array
 |  |
 | ------- |
