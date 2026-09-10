@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/harshone47-pan/DSA_Solution/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/harshone47-pan/DSA_Solution/tree/master/0217-contains-duplicate) |
 | [0566-reshape-the-matrix](https://github.com/harshone47-pan/DSA_Solution/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/harshone47-pan/DSA_Solution/tree/master/0704-binary-search) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/harshone47-pan/DSA_Solution/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/harshone47-pan/DSA_Solution/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/harshone47-pan/DSA_Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
