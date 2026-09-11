@@ -23,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/harshone47-pan/DSA_Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/harshone47-pan/DSA_Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/harshone47-pan/DSA_Solution/tree/master/2022-convert-1d-array-into-2d-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/harshone47-pan/DSA_Solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/harshone47-pan/DSA_Solution/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshone47-pan/DSA_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/harshone47-pan/DSA_Solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -69,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/harshone47-pan/DSA_Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/harshone47-pan/DSA_Solution/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/harshone47-pan/DSA_Solution/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
