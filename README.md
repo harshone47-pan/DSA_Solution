@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harshone47-pan/DSA_Solution/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/harshone47-pan/DSA_Solution/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/harshone47-pan/DSA_Solution/tree/master/0217-contains-duplicate) |
 | [0566-reshape-the-matrix](https://github.com/harshone47-pan/DSA_Solution/tree/master/0566-reshape-the-matrix) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harshone47-pan/DSA_Solution/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/harshone47-pan/DSA_Solution/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshone47-pan/DSA_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshone47-pan/DSA_Solution/tree/master/3483-unique-3-digit-even-numbers) |
