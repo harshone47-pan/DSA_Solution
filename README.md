@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/harshone47-pan/DSA_Solution/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/harshone47-pan/DSA_Solution/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/harshone47-pan/DSA_Solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0507-perfect-number](https://github.com/harshone47-pan/DSA_Solution/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshone47-pan/DSA_Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/harshone47-pan/DSA_Solution/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/harshone47-pan/DSA_Solution/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/harshone47-pan/DSA_Solution/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/harshone47-pan/DSA_Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/harshone47-pan/DSA_Solution/tree/master/0191-number-of-1-bits) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/harshone47-pan/DSA_Solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
