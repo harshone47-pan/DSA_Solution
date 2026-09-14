@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/harshone47-pan/DSA_Solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0507-perfect-number](https://github.com/harshone47-pan/DSA_Solution/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshone47-pan/DSA_Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1903-largest-odd-number-in-string](https://github.com/harshone47-pan/DSA_Solution/tree/master/1903-largest-odd-number-in-string) |
 | [3870-count-commas-in-range](https://github.com/harshone47-pan/DSA_Solution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/harshone47-pan/DSA_Solution/tree/master/3871-count-commas-in-range-ii) |
 ## Array
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/harshone47-pan/DSA_Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1903-largest-odd-number-in-string](https://github.com/harshone47-pan/DSA_Solution/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/harshone47-pan/DSA_Solution/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/harshone47-pan/DSA_Solution/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
