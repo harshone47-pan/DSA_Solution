@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/harshone47-pan/DSA_Solution/tree/master/0217-contains-duplicate) |
 | [0566-reshape-the-matrix](https://github.com/harshone47-pan/DSA_Solution/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/harshone47-pan/DSA_Solution/tree/master/0704-binary-search) |
+| [0766-toeplitz-matrix](https://github.com/harshone47-pan/DSA_Solution/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/harshone47-pan/DSA_Solution/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshone47-pan/DSA_Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshone47-pan/DSA_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/harshone47-pan/DSA_Solution/tree/master/0566-reshape-the-matrix) |
+| [0766-toeplitz-matrix](https://github.com/harshone47-pan/DSA_Solution/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/harshone47-pan/DSA_Solution/tree/master/0867-transpose-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/harshone47-pan/DSA_Solution/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/harshone47-pan/DSA_Solution/tree/master/2373-largest-local-values-in-a-matrix) |
