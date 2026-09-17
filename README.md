@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/harshone47-pan/DSA_Solution/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/harshone47-pan/DSA_Solution/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/harshone47-pan/DSA_Solution/tree/master/0172-factorial-trailing-zeroes) |
+| [0258-add-digits](https://github.com/harshone47-pan/DSA_Solution/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/harshone47-pan/DSA_Solution/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshone47-pan/DSA_Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/harshone47-pan/DSA_Solution/tree/master/1903-largest-odd-number-in-string) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/harshone47-pan/DSA_Solution/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/harshone47-pan/DSA_Solution/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/harshone47-pan/DSA_Solution/tree/master/0867-transpose-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/harshone47-pan/DSA_Solution/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/harshone47-pan/DSA_Solution/tree/master/1903-largest-odd-number-in-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/harshone47-pan/DSA_Solution/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
