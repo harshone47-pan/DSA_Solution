@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2373-largest-local-values-in-a-matrix](https://github.com/harshone47-pan/DSA_Solution/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/harshone47-pan/DSA_Solution/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshone47-pan/DSA_Solution/tree/master/3483-unique-3-digit-even-numbers) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/harshone47-pan/DSA_Solution/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/harshone47-pan/DSA_Solution/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshone47-pan/DSA_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshone47-pan/DSA_Solution/tree/master/3483-unique-3-digit-even-numbers) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/harshone47-pan/DSA_Solution/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Sorting
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshone47-pan/DSA_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/harshone47-pan/DSA_Solution/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Binary Search
 |  |
 | ------- |
