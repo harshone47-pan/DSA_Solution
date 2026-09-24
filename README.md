@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/harshone47-pan/DSA_Solution/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshone47-pan/DSA_Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/harshone47-pan/DSA_Solution/tree/master/1903-largest-odd-number-in-string) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshone47-pan/DSA_Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/harshone47-pan/DSA_Solution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/harshone47-pan/DSA_Solution/tree/master/3871-count-commas-in-range-ii) |
 ## Array
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2373-largest-local-values-in-a-matrix](https://github.com/harshone47-pan/DSA_Solution/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/harshone47-pan/DSA_Solution/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshone47-pan/DSA_Solution/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshone47-pan/DSA_Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/harshone47-pan/DSA_Solution/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Hash Table
 |  |
