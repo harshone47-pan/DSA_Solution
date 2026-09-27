@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/harshone47-pan/DSA_Solution/tree/master/0344-reverse-string) |
 | [1903-largest-odd-number-in-string](https://github.com/harshone47-pan/DSA_Solution/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshone47-pan/DSA_Solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Number Theory
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2500-delete-greatest-value-in-each-row](https://github.com/harshone47-pan/DSA_Solution/tree/master/2500-delete-greatest-value-in-each-row) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/harshone47-pan/DSA_Solution/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
