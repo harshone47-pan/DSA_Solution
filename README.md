@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/harshone47-pan/DSA_Solution/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshone47-pan/DSA_Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshone47-pan/DSA_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/harshone47-pan/DSA_Solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/harshone47-pan/DSA_Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/harshone47-pan/DSA_Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshone47-pan/DSA_Solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
