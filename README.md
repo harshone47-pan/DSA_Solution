@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/harshone47-pan/DSA_Solution/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/harshone47-pan/DSA_Solution/tree/master/0344-reverse-string) |
 | [0504-base-7](https://github.com/harshone47-pan/DSA_Solution/tree/master/0504-base-7) |
 | [1903-largest-odd-number-in-string](https://github.com/harshone47-pan/DSA_Solution/tree/master/1903-largest-odd-number-in-string) |
@@ -138,4 +139,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/harshone47-pan/DSA_Solution/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshone47-pan/DSA_Solution/tree/master/0977-squares-of-a-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/harshone47-pan/DSA_Solution/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/harshone47-pan/DSA_Solution/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/harshone47-pan/DSA_Solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
