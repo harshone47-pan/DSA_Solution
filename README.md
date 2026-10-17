@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshone47-pan/DSA_Solution/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/harshone47-pan/DSA_Solution/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/harshone47-pan/DSA_Solution/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshone47-pan/DSA_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshone47-pan/DSA_Solution/tree/master/3483-unique-3-digit-even-numbers) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/harshone47-pan/DSA_Solution/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/harshone47-pan/DSA_Solution/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshone47-pan/DSA_Solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
@@ -152,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/harshone47-pan/DSA_Solution/tree/master/0022-generate-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/harshone47-pan/DSA_Solution/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/harshone47-pan/DSA_Solution/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
