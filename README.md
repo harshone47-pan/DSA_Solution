@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/harshone47-pan/DSA_Solution/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/harshone47-pan/DSA_Solution/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/harshone47-pan/DSA_Solution/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/harshone47-pan/DSA_Solution/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshone47-pan/DSA_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshone47-pan/DSA_Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/harshone47-pan/DSA_Solution/tree/master/4038-count-integers-appearing-in-a-single-block) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/harshone47-pan/DSA_Solution/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/harshone47-pan/DSA_Solution/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshone47-pan/DSA_Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshone47-pan/DSA_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/harshone47-pan/DSA_Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/harshone47-pan/DSA_Solution/tree/master/0191-number-of-1-bits) |
+| [0389-find-the-difference](https://github.com/harshone47-pan/DSA_Solution/tree/master/0389-find-the-difference) |
 ## Newton's Method
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/harshone47-pan/DSA_Solution/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/harshone47-pan/DSA_Solution/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/harshone47-pan/DSA_Solution/tree/master/0389-find-the-difference) |
 | [0504-base-7](https://github.com/harshone47-pan/DSA_Solution/tree/master/0504-base-7) |
 | [1903-largest-odd-number-in-string](https://github.com/harshone47-pan/DSA_Solution/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshone47-pan/DSA_Solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
